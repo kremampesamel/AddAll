@@ -1,0 +1,23 @@
+{
+  "name": "addall",
+  "version": "1.0.0",
+  "description": "A node module that will add all the numbers in an array together",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kremampesamel/AddAll.git"
+  },
+  "keywords": [
+    "add",
+    "numbers"
+  ],
+  "author": " (ISC)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kremampesamel/AddAll/issues"
+  },
+  "homepage": "https://github.com/kremampesamel/AddAll#readme"
+}
